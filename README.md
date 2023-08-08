@@ -1,7 +1,7 @@
 ### Olá, me chamo Guilherme, bem vindo ao meu perfil
 
-- 🔭 Hoje trabalhando como técnico em hardware e desenvolvedor Java
-- 🌱 Estudando Java, JavaScript, HTML e CSS
+- 🔭 Hoje trabalhando como técnico em hardware e desenvolvedor Full-Stack 
+- 🌱 Estudando Java, JavaScript, HTML,CSS e SQL
 - 👾 Em busca de novos desafios
 
 <div align="center">
